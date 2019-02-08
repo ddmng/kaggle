@@ -1,3 +1,4 @@
 **/input/*
 **/*.csv
 nohup.out
+**/*.h5
